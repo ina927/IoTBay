@@ -12,7 +12,7 @@ A full-stack Java web application that supports the following core features base
   - Manage product inventory and stock levels
   - Manage customer and staff accounts
 
-** Demo Video: https://youtu.be/QSD-Nl6hVC4?si=30dGTxrfRkXeFUaU
+**Demo Video**: https://youtu.be/QSD-Nl6hVC4?si=30dGTxrfRkXeFUaU
 
 ---
 ## Implementation (MVC Architecture)
