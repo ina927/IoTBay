@@ -1,6 +1,6 @@
 # IoTBay
 
-**Demo Video**: https://youtu.be/QSD-Nl6hVC4?si=30dGTxrfRkXeFUaU
+**Demo Video**: https://youtu.be/8QBVmmR5fV0?si=v-w60i-WpPH7GK4L
 (focused on features I implemented)
 
 A full-stack Java web application that supports the following core features based on user roles:
