@@ -26,8 +26,8 @@ A full-stack Java web application that supports the following core features base
 ## My Contribution (Ina Song)
 > As a **project lead**
   - Designed the overall MVC structure and database schema (ERD)
-    ![MVC design](./IotBay/src/main/webapp/images/MVC.png)
-    ![ERD](./IotBay/src/main/webapp/images/ERD.png)
+    ![MVC design](./IotBay/src/main/webapp/images/MVC-model.png)
+    ![ERD](./IotBay/src/main/webapp/images/IoTBay-ERD.png)
   - Oversaw system integration, coordinating feature connections across servlets and pages
   - Handled navigation and workflow design between all key modules 
 
